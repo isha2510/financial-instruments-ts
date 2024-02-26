@@ -1,0 +1,22 @@
+.default-grid-size {
+    height: 21.5rem;
+    width: 50rem;
+    text-align: left;
+}
+
+.container {
+    margin: 2rem;
+    padding: 1rem;
+}
+
+.commodities {
+    background-color: white !important;
+}
+
+.equities {
+    background-color: #1e9fd9 !important;
+}
+
+.credit {
+    background-color: #7bc57b !important;
+}
